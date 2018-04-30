@@ -18,7 +18,7 @@
 # Code extrait de :
 #     http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 
-# In[6]:
+# In[1]:
 
 
 print(__doc__)
